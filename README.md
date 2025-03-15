@@ -77,7 +77,7 @@ Hello，我是一位软件工程学习者 + 编程爱好者 + 团队协作新手
     </td>
     <td align="center" width="96">
       <a href="#技术栈">
-        <img src="./assets/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="./assets/Docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
